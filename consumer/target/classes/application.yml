@@ -1,0 +1,7 @@
+server:
+  port: 9091
+
+topicos:
+  pagamento:
+    request:
+      topic: "pagamento.request.topic.v1"
